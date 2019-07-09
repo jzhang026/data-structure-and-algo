@@ -1,0 +1,16 @@
+{
+  "name": "algo_js",
+  "version": "1.0.0",
+  "description": "data structure and algorithm",
+  "main": " ",
+  "scripts": {
+    "test": "mocha -w \"./{,!(node_modules)/**/}*.spec.js\""
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0"
+  }
+}
